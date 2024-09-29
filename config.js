@@ -17,17 +17,6 @@ window.Config = {
 
   // 导航栏菜单
   Navi: [
-    {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
-    },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
-    },
-    {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
-    },
+
   ],
 };
